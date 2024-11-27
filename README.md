@@ -16,7 +16,8 @@ Proyek ini adalah implementasi sistem multitasking menggunakan **RTOS (Real-Time
 - **Hardware**:
   - Microcontroller: STM32 (diuji pada STM32CubeMX dan STM32CubeIDE).
   - 4 LED: Hijau, Merah, Oranye, dan Biru.
-  - Breadboard dan resistor.
+  - Jumper
+  - Debugger
 - **Software**:
   - STM32CubeIDE untuk pengembangan kode.
   - STM32CubeMX untuk konfigurasi perangkat keras (file `.ioc`).
