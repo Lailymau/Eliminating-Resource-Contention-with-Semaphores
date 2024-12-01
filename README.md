@@ -12,6 +12,11 @@ Proyek ini adalah implementasi sistem multitasking menggunakan **RTOS (Real-Time
 
 ---
 
+## 📂 Node Diagram
+![image](https://github.com/user-attachments/assets/842ab300-f17c-4456-954a-ceafc2b95a34)
+
+---
+
 ## 🛠️ Peralatan
 - **Hardware**:
   - Microcontroller: STM32 (diuji pada STM32CubeMX dan STM32CubeIDE).
@@ -68,5 +73,4 @@ Proyek ini adalah implementasi sistem multitasking menggunakan **RTOS (Real-Time
 ---
 
 ## 🧪 Hasil Percobaan
-
-
+https://github.com/user-attachments/assets/9322d5ca-7666-479c-8892-f8a40d8eff9d
